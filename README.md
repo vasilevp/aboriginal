@@ -13,7 +13,7 @@ go get github.com/vasilevp/aboriginal/cmd/aboriginal
 
 ### command line
 ```sh
-aboriginal -i <input_file> -o <output_file>
+aboriginal -i ᐸinput_fileᐳ -o ᐸoutput_fileᐳ
 ```
 You can omit both `-i` and `-o`, in which case STDIN/STDOUT will be used.
 
